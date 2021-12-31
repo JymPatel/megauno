@@ -36,7 +36,7 @@ void loop()
     Serial.print(distance);
     Serial.println(" cm");
     // make ledPin HIGH if distance is too far.
-    if (distance <= 10)
+    if (distance >= 10)
     {
         digitalWrite(led, HIGH);
     }
