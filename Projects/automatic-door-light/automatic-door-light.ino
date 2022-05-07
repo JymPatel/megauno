@@ -38,10 +38,10 @@ void loop()
     // make ledPin HIGH if distance is too far.
     if (distance >= 10)
     {
-        digitalWrite(led, HIGH);
+        digitalWrite(ledPin, HIGH);
     }
     else
     {
-        digitalWrite(led, LOW);
+        digitalWrite(ledPin, LOW);
     }
 }
