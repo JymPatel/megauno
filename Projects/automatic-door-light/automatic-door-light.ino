@@ -5,7 +5,7 @@
 // Define where the Pins are
 #define echoPin 2
 #define trigPin 3
-#define ledPin 11
+#define ledPin 13
 
 // variables we need
 long duration;
@@ -36,7 +36,7 @@ void loop()
     Serial.print(distance);
     Serial.println(" cm");
     // make ledPin HIGH if distance is too far.
-    if (distance >= 10)
+    if (distance >= 20)
     {
         digitalWrite(ledPin, HIGH);
     }
