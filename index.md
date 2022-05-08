@@ -1,3 +1,8 @@
+~~~
+title: megauno
+description: arduino projects
+~~~
+
 # megauno
 welcome! to megauno site.  
 we hope you find this web useful and learn something from here.  
