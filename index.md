@@ -7,5 +7,3 @@ we hope you find this web useful and learn something from here.
 
 ## thanks! for your support
 thanks to [GitHub](https://github.com) for GitHub Pages and all contributors who contributed to [dinky theme](https://github.com/pages-themes/dinky).  
-
-# test h1
