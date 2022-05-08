@@ -3,9 +3,9 @@
 
 
 // Define where the Pins are
-#define echoPin 2
-#define trigPin 3
-#define ledPin 13
+#define echoPin 3
+#define trigPin 4
+#define ledPin 2
 
 // variables we need
 long duration;
