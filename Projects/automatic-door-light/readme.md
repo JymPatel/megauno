@@ -14,5 +14,4 @@ put code in your arduino IDE.
 compile, upload, enjoy!
 
 #### Contributors
-created by  
-[@JymPatel](https://github.com/JymPatel)  
+created by [@JymPatel](https://github.com/JymPatel)  
